@@ -9,7 +9,7 @@ const MainWrap = styled.div`
 `;
 const GlobalStyle = createGlobalStyle`
   body{
-    background: #e9ecef;
+    background: #FFCDCD;
   }
 `;
 const Wrap = styled.div`

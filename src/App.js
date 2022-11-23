@@ -2,8 +2,9 @@ import Todo from './components/Todo';
 import styled from 'styled-components';
 
 const MainWrap = styled.div`
-  background: #e9ecef;
+  background: #ffe6e6;
   height: 100vh;
+  overflow-y: auto;
 `;
 
 function App() {
